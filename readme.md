@@ -20,15 +20,21 @@ I compiled several datasets focused on craft brewing from various sources. Datas
 
 1)	Openbeer Database: A set of tables from a relational database capturing a variety of statistics about craft breweries to include beer categories, beer styles, beer ABV %, and brewery location. This dataset was dated 2011.
 a.	Beers: 5914x6
+
 b.	Breweries: 1423x8
+
 c.	Breweries_Geocode: 1315x5
+
 d.	Categories: 12x2
+
 e.	Styles: 141x3
 
 2)	Alcohol and Tobacco Tax and Trade Bureau beer statistics for 2007-2018 including tables for tax determined (premise use), taxable bottles and cans, and taxable barrels and kegs.
 
 a.	Tax Determined: 51x13
+
 b.	Taxable Bottles and Cans: 51x13
+
 c.	Taxable Bottles and Cans: 51x13
 
 3)	BeerAdvocate beer reviews: a collection of 1.58 million reviews from the website beeradvocate.com. This data included rating scores and beer style for beers from around the world.
@@ -37,9 +43,13 @@ a.	Reviews: 1584724x10
 4)	Brewers’ Association craft beer data: a collection of statistics from the craft beer industry for 1971-2013. This included historical data, demographic data for states, brewery statistics for states, and production statistics.
 
 a.	Craft Beer Historical Data: 4x43
+
 b.	Brewery Per Capita: 51x7
+
 c.	Craft Control Group Barrels: 2589x4
+
 d.	State Production: 51x 5
+
 e.	Brewery Count: 51x4
 
 <b>Exploratory Data Analysis</b>
